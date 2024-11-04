@@ -11,7 +11,7 @@
     </p>
 
     <h2>Project Structure</h2>
-    <code>
+<code>
     .
     ├── main.py                  # Main script to train and validate the model
     ├── model.py                 # Defines the U-Net model architecture
@@ -30,7 +30,7 @@
     </ul>
 
     <h2>Installation</h2>
-    <code>git clone https://github.com/yourusername/unet-lapa-finetuning.git
+<code>git clone https://github.com/yourusername/unet-lapa-finetuning.git
     cd unet-lapa-finetuning
     pip install -r requirements.txt
     </code>
@@ -39,13 +39,13 @@
     <p>
         To begin training the model, simply run <code>main.py</code>. This script will load the data, initialize the model, and start the training process:
     </p>
-    <code>python main.py</code>
+<code>python main.py</code>
 
     <h2>Requirements</h2>
     <p>
         All required packages are listed in <code>requirements.txt</code>. Install them using:
     </p>
-    <code>pip install -r requirements.txt</code>
+<code>pip install -r requirements.txt</code>
 
     <h2>Data</h2>
     <p>
