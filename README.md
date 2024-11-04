@@ -3,17 +3,6 @@
         This repository provides scripts to fine-tune a U-Net model for segmenting facial parts using the LaPa (Labeled Parts in the Wild) dataset. The model identifies facial regions like eyes, nose, mouth, and hair, making it suitable for applications in facial analysis and augmented reality.
 </p>
 
-<h2>Project Structure</h2>
-
-<code><pre>
-    .
-    ├── main.py                  # Main script to train and validate the model
-    ├── model.py                 # Defines the U-Net model architecture
-    ├── train.py                 # Training functions, including the optimizer and data loader
-    ├── utils.py                 # Helper functions for data preprocessing and transformations
-    ├── requirements.txt         # Required packages for this project
-</pre></code>
-
 <h2>File Descriptions</h2>
 <ul>
         <li><code>main.py</code>: Main script for initializing the training process. Loads data, sets up the model, and manages the overall workflow for training and evaluation.</li>
