@@ -7,6 +7,8 @@ rgb_codes = [
     [0, 0, 0],
     [0, 153, 255],
     [102, 255, 153],
+    [153, 255, 102],
+    [255, 0, 153]
 ]
 
 # You may modify this list based on your choice of facial parts
