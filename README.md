@@ -28,7 +28,7 @@
 
 <h2>Installation</h2>
 
-<code>git clone https://github.com/yourusername/.git
+<code>git clone https://github.com/sidstar007/LaPa-UNET.git
     cd unet-lapa-finetuning
     pip install -r requirements.txt
 </code>
