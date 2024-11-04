@@ -27,10 +27,10 @@
 
 <h2>Installation</h2>
 
-<code>git clone https://github.com/sidstar007/LaPa-UNET.git
+<code><pre></pre>git clone https://github.com/sidstar007/LaPa-UNET.git
     cd LaPa-UNET
     pip install -r requirements.txt
-</code>
+</pre></code>
 
 <h2>Usage</h2>
     <p>
@@ -42,7 +42,7 @@
     <p>
         All required packages are listed in <code>requirements.txt</code>. Install them using:
     </p>
-<code>pip install -r requirements.txt</code>
+<code><pre>pip install -r requirements.txt</pre></code>
 
 <h2>Data</h2>
     <p>
