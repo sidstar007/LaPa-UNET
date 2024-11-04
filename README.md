@@ -23,12 +23,12 @@
         <li><code>train.py</code>: Contains functions for training the model, managing epochs, loss calculation, and other necessary training processes.</li>
         <li><code>utils.py</code>: Utility functions for handling data loading and transformations, including preprocessing steps specific to the LaPa dataset.</li>
         <li><code>predict.py</code>: Predict mask using the fine-tuned model.</li>
-        <li><code>requirements.txt</code>: Lists all the dependencies needed to set up and run the project. Install these packages using <code>pip install -r requirements.txt</code>.</li>
+        <li><code>requirements.txt</code>: Lists all the dependencies needed to set up and run the project. Install these packages using.</li><code>pip install -r requirements.txt</code>
 </ul>
 
 <h2>Installation</h2>
 
-<code>git clone https://github.com/yourusername/LaPa-UNET.git
+<code>git clone https://github.com/yourusername/.git
     cd unet-lapa-finetuning
     pip install -r requirements.txt
 </code>
@@ -47,5 +47,5 @@
 
 <h2>Data</h2>
     <p>
-        The model is fine-tuned using the <a href="https://github.com/JDAI-CV/lapa-dataset" target="_blank">LaPa dataset</a>, which contains labeled facial parts. Download the dataset and configure paths within <code>main.py</code> or <code>train.py</code> as needed.
+        The model is fine-tuned using the <a href="https://github.com/JDAI-CV/lapa-dataset" target="_blank">LaPa dataset</a>, which contains labeled facial parts. Download the dataset and configure paths within <code>config.py</code>.
     </p>
