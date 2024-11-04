@@ -23,7 +23,6 @@
         <li><code>train.py</code>: Contains functions for training the model, managing epochs, loss calculation, and other necessary training processes.</li>
         <li><code>utils.py</code>: Utility functions for handling data loading and transformations, including preprocessing steps specific to the LaPa dataset.</li>
         <li><code>predict.py</code>: Predict mask using the fine-tuned model.</li>
-        <li><code>requirements.txt</code>: Lists all the dependencies needed to set up and run the project. Install these packages using.</li><code>pip install -r requirements.txt</code>
 </ul>
 
 <h2>Installation</h2>
