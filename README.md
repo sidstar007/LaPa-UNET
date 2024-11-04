@@ -25,7 +25,7 @@
     <p>
         To begin training the model, simply run <code>main.py</code>. This script will load the data, initialize the model, and start the training process:
     </p>
-<code>python main.py</code>
+<pre><code>python main.py</code></pre>
 
 <h2>Requirements</h2>
     <p>
