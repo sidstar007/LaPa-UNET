@@ -5,14 +5,14 @@
 
 <h2>Project Structure</h2>
 
-<code>
+<code><pre>
     .
     ├── main.py                  # Main script to train and validate the model
     ├── model.py                 # Defines the U-Net model architecture
     ├── train.py                 # Training functions, including the optimizer and data loader
     ├── utils.py                 # Helper functions for data preprocessing and transformations
     ├── requirements.txt         # Required packages for this project
-</code>
+</pre></code>
 
 <h2>File Descriptions</h2>
 <ul>
@@ -28,7 +28,7 @@
 <h2>Installation</h2>
 
 <code>git clone https://github.com/sidstar007/LaPa-UNET.git
-    cd unet-lapa-finetuning
+    cd LaPa-UNET
     pip install -r requirements.txt
 </code>
 
