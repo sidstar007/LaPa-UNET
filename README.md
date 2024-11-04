@@ -30,9 +30,7 @@ pip install -r requirements.txt
     <p>
         All required packages are listed in <code>requirements.txt</code>. Install them using:
     </p>
-<pre><code>
-    pip install -r requirements.txt
-</code></pre>
+<pre><code>pip install -r requirements.txt</code></pre>
 
 <h2>Data</h2>
     <p>
