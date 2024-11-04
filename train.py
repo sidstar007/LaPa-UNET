@@ -4,8 +4,8 @@ from unet_model import build_unet
 from config import model_dir, dataset_path, image_h, image_w, num_classes, batch_size
 import os
 
-model_path = os.path.join(model_dir, "model_12000_eyes.keras")
-csv_path = os.path.join(model_dir, "data_12000_eyes.csv")
+model_path = os.path.join(model_dir, "sample_model_name.keras")
+csv_path = os.path.join(model_dir, "sample_dataset_name.csv")
 
 (train_x, train_y), (valid_x, valid_y), _ = load_dataset(dataset_path, limit=12000)
 train_ds = tf_dataset(train_x, train_y, batch=batch_size)

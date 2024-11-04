@@ -19,7 +19,7 @@
         <li><code>main.py</code>: Main script for initializing the training process. Loads data, sets up the model, and manages the overall workflow for training and evaluation.</li>
         <li><code>config.py</code>: Modify the configuration for finetuning based on number of facial parts to be segmented.</li>
         <li><code>data_loader.py</code>: Load the LaPa Dataset based on chosen limit.</li>
-        <li><code>model.py</code>: Contains the U-Net model architecture tailored for fine-tuning on the LaPa dataset. Configurable to handle different numbers of classes based on dataset needs.</li>
+        <li><code>unet_model.py</code>: Contains the U-Net model architecture tailored for fine-tuning on the LaPa dataset. Configurable to handle different numbers of classes based on dataset needs.</li>
         <li><code>train.py</code>: Contains functions for training the model, managing epochs, loss calculation, and other necessary training processes.</li>
         <li><code>utils.py</code>: Utility functions for handling data loading and transformations, including preprocessing steps specific to the LaPa dataset.</li>
         <li><code>predict.py</code>: Predict mask using the fine-tuned model.</li>
@@ -28,7 +28,7 @@
 
 <h2>Installation</h2>
 
-<code>git clone https://github.com/yourusername/unet-lapa-finetuning.git
+<code>git clone https://github.com/yourusername/LaPa-UNET.git
     cd unet-lapa-finetuning
     pip install -r requirements.txt
 </code>
