@@ -15,11 +15,11 @@
 </ul>
 
 <h2>Installation</h2>
-<code><pre>
+<pre><code>
     git clone https://github.com/sidstar007/LaPa-UNET.git
     cd LaPa-UNET
     pip install -r requirements.txt
-</pre></code>
+</code></pre>
 
 <h2>Usage</h2>
     <p>
@@ -31,9 +31,9 @@
     <p>
         All required packages are listed in <code>requirements.txt</code>. Install them using:
     </p>
-<code><pre>
+<pre><code>
     pip install -r requirements.txt
-</pre></code>
+</code></pre>
 
 <h2>Data</h2>
     <p>
