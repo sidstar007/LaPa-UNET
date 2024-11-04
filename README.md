@@ -16,9 +16,9 @@
 
 <h2>Installation</h2>
 <pre><code>
-    git clone https://github.com/sidstar007/LaPa-UNET.git
-    cd LaPa-UNET
-    pip install -r requirements.txt
+git clone https://github.com/sidstar007/LaPa-UNET.git
+cd LaPa-UNET
+pip install -r requirements.txt
 </code></pre>
 
 <h2>Usage</h2>
