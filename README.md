@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>U-Net Fine-tuning for Facial Parts Segmentation</title>
 </head>
 <body>
     <h1>U-Net Fine-tuning for Facial Parts Segmentation using LaPa Dataset</h1>
@@ -12,14 +11,14 @@
     </p>
 
     <h2>Project Structure</h2>
-    <pre>
+    <code>
     .
     ├── main.py                  # Main script to train and validate the model
     ├── model.py                 # Defines the U-Net model architecture
     ├── train.py                 # Training functions, including the optimizer and data loader
     ├── utils.py                 # Helper functions for data preprocessing and transformations
     ├── requirements.txt         # Required packages for this project
-    </pre>
+    </code>
 
     <h2>File Descriptions</h2>
     <ul>
@@ -31,22 +30,22 @@
     </ul>
 
     <h2>Installation</h2>
-    <pre><code>git clone https://github.com/yourusername/unet-lapa-finetuning.git
-cd unet-lapa-finetuning
-pip install -r requirements.txt
-</code></pre>
+    <code>git clone https://github.com/yourusername/unet-lapa-finetuning.git
+    cd unet-lapa-finetuning
+    pip install -r requirements.txt
+    </code>
 
     <h2>Usage</h2>
     <p>
         To begin training the model, simply run <code>main.py</code>. This script will load the data, initialize the model, and start the training process:
     </p>
-    <pre><code>python main.py</code></pre>
+    <code>python main.py</code>
 
     <h2>Requirements</h2>
     <p>
         All required packages are listed in <code>requirements.txt</code>. Install them using:
     </p>
-    <pre><code>pip install -r requirements.txt</code></pre>
+    <code>pip install -r requirements.txt</code>
 
     <h2>Data</h2>
     <p>
