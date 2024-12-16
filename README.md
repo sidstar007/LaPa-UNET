@@ -33,7 +33,7 @@ pip install -r requirements.txt
 <pre><code>pip install -r requirements.txt</code></pre>
 
 <h2>Sample Output</h2>
-    <img src="readme-images/sample_output_1.jpeg" alt="Sample Output" style="max-width: 100%; height: auto;">
+    <img src="readme-images/sample_output_1.png" alt="Sample Output" style="max-width: 100%; height: auto;">
 
 <h2>Data</h2>
     <p>
