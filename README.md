@@ -1,6 +1,6 @@
 <h1>U-Net Fine-tuning for Facial Parts Segmentation using LaPa Dataset</h1>
 <p>
-        This repository provides scripts to fine-tune a U-Net model for segmenting facial parts using the LaPa (Labeled Parts in the Wild) dataset. The model identifies facial regions like eyes, nose, mouth, and hair, making it suitable for applications in facial analysis and augmented reality.
+        This repository provides scripts to fine-tune a U-Net model for segmenting facial parts using the LaPa dataset. The model identifies facial regions like eyes, nose, mouth, and hair, making it suitable for applications in facial analysis and augmented reality.
 </p>
 
 <h2>File Descriptions</h2>
