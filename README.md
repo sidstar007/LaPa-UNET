@@ -32,6 +32,9 @@ pip install -r requirements.txt
     </p>
 <pre><code>pip install -r requirements.txt</code></pre>
 
+<h2>Sample Output</h2>
+    <img src="readme-images/sample_output_1.jpeg" alt="Sample Output" style="max-width: 100%; height: auto;">
+
 <h2>Data</h2>
     <p>
         The model is fine-tuned using the <a href="https://github.com/JDAI-CV/lapa-dataset" target="_blank">LaPa dataset</a>, which contains labeled facial parts. Download the dataset and configure paths within <code>config.py</code>.
